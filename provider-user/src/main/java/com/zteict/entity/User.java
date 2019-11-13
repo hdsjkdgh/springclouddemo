@@ -3,6 +3,9 @@ package com.zteict.entity;
 import java.util.Date;
 
 
+/**
+ * @author Yangpeng
+ */
 public class User {
     private Long id;
     private Date time;

@@ -13,8 +13,8 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="providerorder" options="-parameters" />
-      <module name="provideruser" options="-parameters" />
+      <module name="providerorder" options="" />
+      <module name="provideruser" options="" />
     </option>
   </component>
 </project>
