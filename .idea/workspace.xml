@@ -2,18 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="658f01ba-aa7f-41b4-a716-de1dab4deed0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/eureka/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/src/main/java/com/zteict/EurekaApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eureka/src/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-order/src/main/java/com/zteict/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider-order/src/main/java/com/zteict/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/SpringbootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/SpringbootApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-order/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-order/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-order/src/main/java/com/zteict/OrderSpringbootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider-order/src/main/java/com/zteict/OrderSpringbootApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-order/src/main/java/com/zteict/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider-order/src/main/java/com/zteict/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-order/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-order/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-order/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-order/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-order/target/classes/com/zteict/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider-order/target/classes/com/zteict/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-user/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/UserSpringbootApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/UserSpringbootApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-user/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-user/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/provider-user/target/classes/com/zteict/UserSpringbootApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/target/classes/com/zteict/UserSpringbootApplication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/provider-user/target/classes/com/zteict/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/target/classes/com/zteict/controller/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-user/target/classes/com/zteict/entity/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/target/classes/com/zteict/entity/User.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/provider-user/target/" />
     <ignored path="$PROJECT_DIR$/provider-order/target/" />
+    <ignored path="$PROJECT_DIR$/eurake/target/" />
+    <ignored path="$PROJECT_DIR$/eureke/target/" />
+    <ignored path="$PROJECT_DIR$/eureka/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,25 +52,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/provider-user/src/main/java/com/zteict/SpringbootApplication.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/zteict/EurekaApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="391">
+              <caret line="45" column="18" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-506">
+              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/eureka/src/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider-user/src/main/java/com/zteict/UserSpringbootApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#640#641#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/1.5.10.RELEASE/spring-boot-1.5.10.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
+        <entry file="file://$PROJECT_DIR$/provider-order/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="684" column="49" selection-start-line="684" selection-start-column="49" selection-end-line="684" selection-end-column="49" />
+            <state relative-caret-position="276">
+              <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider-user/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="254">
+              <caret line="43" column="21" selection-start-line="35" selection-start-column="8" selection-end-line="43" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider-user/src/main/java/com/zteict/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider-order/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/provider-order/src/main/java/com/zteict/OrderSpringbootApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider-user/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="58" selection-start-line="5" selection-end-line="8" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -82,15 +173,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/provider-order/pom.xml" />
-        <option value="$PROJECT_DIR$/provider-user/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/provider-user/pom.xml" />
         <option value="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/App.java" />
         <option value="$PROJECT_DIR$/provider-order/src/main/java/com/zteict/App.java" />
-        <option value="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/controller/UserController.java" />
         <option value="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/entity/User.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/SpringbootApplication.java" />
+        <option value="$PROJECT_DIR$/provider-order/src/main/java/com/zteict/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/eurake/pom.xml" />
+        <option value="$PROJECT_DIR$/eurake/src/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureke/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-user/pom.xml" />
+        <option value="$PROJECT_DIR$/eureke/src/resources/application.yml" />
+        <option value="$PROJECT_DIR$/eureke/src/main/java/com/zteict/EurekaApp.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka/src/main/java/com/zteict/EurakeApp.java" />
+        <option value="$PROJECT_DIR$/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka/src/main/java/com/zteict/EurekaApp.java" />
+        <option value="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/UserSpringbootApplication.java" />
+        <option value="$PROJECT_DIR$/eureka/src/resources/application.yml" />
+        <option value="$PROJECT_DIR$/provider-user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/provider-order/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-user/src/main/java/com/zteict/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/provider-order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/provider-order/src/main/java/com/zteict/OrderSpringbootApplication.java" />
       </list>
     </option>
   </component>
@@ -111,13 +215,17 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="microservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="microservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="microservice" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
@@ -132,8 +240,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2" />
-    <option name="y" value="-15" />
+    <option name="x" value="42" />
+    <option name="y" value="45" />
     <option name="width" value="1346" />
     <option name="height" value="666" />
   </component>
@@ -146,12 +254,62 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud学习" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud学习" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud学习" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud学习" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud学习" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud学习" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zteict" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud学习" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud学习" type="462c0819:PsiDirectoryNode" />
+              <item name="eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
@@ -187,6 +345,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="zteict" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud学习" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-order" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
@@ -255,7 +421,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,14 +432,24 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573649448187" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574255049806" />
     <property name="last_opened_file_path" value="D:/下载/springbootdemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Java后端学习\springcloud学习\eureka\src\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Java后端学习\springcloud学习\eureka\src\main\java\com\zteict" />
+      <recent name="F:\Java后端学习\springcloud学习\eureka\src\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -288,22 +463,44 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringbootApplication">
-    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="provideruser" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zteict.App" />
+  <component name="RunManager" selected="Spring Boot.OrderSpringbootApplication">
+    <configuration name="EurekaApp " type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zteict.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zteict.EurekaApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="provideruser" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zteict.SpringbootApplication" />
+    <configuration name="EurekaApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zteict.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zteict.EurekaApp" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringbootdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="OrderSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="providerorder" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zteict.OrderSpringbootApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="provideruser" />
       <extension name="coverage">
         <pattern>
@@ -311,14 +508,20 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zteict.SpringbootdemoApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zteict.UserSpringbootApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.OrderSpringbootApplication" />
+      <item itemvalue="Spring Boot.UserSpringbootApplication" />
+      <item itemvalue="Spring Boot.EurekaApp " />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SpringbootdemoApplication" />
+        <item itemvalue="Spring Boot.EurekaApp " />
       </list>
     </recent_temporary>
   </component>
@@ -335,11 +538,16 @@
       <workItem from="1573559116090" duration="4164000" />
       <workItem from="1573646405492" duration="692000" />
       <workItem from="1573648222091" duration="1212000" />
+      <workItem from="1573989533946" duration="2508000" />
+      <workItem from="1573993185538" duration="2039000" />
+      <workItem from="1574078894768" duration="2680000" />
+      <workItem from="1574169493449" duration="2495000" />
+      <workItem from="1574253173435" duration="1782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6068000" />
+    <option name="totallyTimeSpent" value="17574000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,7 +562,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24130106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="JRebel" order="3" side_tool="true" />
@@ -365,7 +573,7 @@
       <window_info id="Web" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4442623" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39016393" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -384,7 +592,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.27987897" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" weight="0.32980332" />
@@ -406,13 +614,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider-order/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="34" column="21" selection-start-line="31" selection-start-column="8" selection-end-line="34" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE-sources.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="166">
@@ -423,27 +624,125 @@
     <entry file="file://$PROJECT_DIR$/provider-user/target/classes/application.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider-user/pom.xml">
+    <entry file="file://$PROJECT_DIR$/provider-order/src/main/java/com/zteict/App.java" />
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="31" column="20" lean-forward="true" selection-start-line="31" selection-start-column="20" selection-end-line="31" selection-end-column="20" />
+        <state relative-caret-position="104">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider-order/src/main/java/com/zteict/App.java">
+    <entry file="file://$PROJECT_DIR$/provider-user/src/main/java/com/zteict/SpringbootApplication.java" />
+    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/1.5.10.RELEASE/spring-boot-1.5.10.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="15886">
+          <caret line="684" column="49" selection-start-line="684" selection-start-column="49" selection-end-line="684" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-order/src/main/java/com/zteict/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-user/src/main/java/com/zteict/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/maven/repository/org/springframework/spring-web/4.3.14.RELEASE/spring-web-4.3.14.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="139" column="17" selection-start-line="139" selection-start-column="17" selection-end-line="139" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-order/src/main/java/com/zteict/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/eureke/src/main/java/com/zteict/EurekaApp.java" />
+    <entry file="file://$PROJECT_DIR$/eureke/pom.xml" />
+    <entry file="jar://E:/maven/repository/org/springframework/cloud/spring-cloud-netflix-eureka-server/1.4.3.RELEASE/spring-cloud-netflix-eureka-server-1.4.3.RELEASE.jar!/org/springframework/cloud/netflix/eureka/server/EnableEurekaServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/zteict/EurakeApp.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/zteict/EurekaApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/src/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-user/src/main/java/com/zteict/UserSpringbootApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#640#641#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="43" column="21" selection-start-line="35" selection-start-column="8" selection-end-line="43" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/provider-user/src/main/java/com/zteict/controller/UserController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        <state relative-caret-position="169">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -452,57 +751,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/provider-user/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        <state relative-caret-position="184">
+          <caret line="8" column="58" selection-start-line="5" selection-end-line="8" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/provider-user/src/main/java/com/zteict/entity/User.java">
+    <entry file="file://$PROJECT_DIR$/provider-order/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#391#392#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="184">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/provider-order/src/main/java/com/zteict/OrderSpringbootApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.10.RELEASE/spring-boot-autoconfigure-1.5.10.RELEASE.jar!/org/springframework/boot/autoconfigure/EnableAutoConfiguration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/maven/repository/org/springframework/boot/spring-boot/1.5.10.RELEASE/spring-boot-1.5.10.RELEASE.jar!/org/springframework/boot/SpringApplication.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="684" column="49" selection-start-line="684" selection-start-column="49" selection-end-line="684" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/provider-user/src/main/java/com/zteict/SpringbootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="284">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
           </folding>
         </state>
       </provider>
